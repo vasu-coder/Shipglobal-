@@ -1,0 +1,57 @@
+.game-container {
+  width: 80%;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #f7f7f7;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+input[type="number"] {
+  width: 100%;
+  padding: 10px;
+  font-size: 18px;
+  border: 1px solid #ccc;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  font-size: 18px;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #444;
+}
+
+.feedback {
+  font-size: 18px;
+  color: #666;
+}
+
+.attempts {
+  font-size: 18px;
+  color: #666;
+}
+
+.restart-btn {
+  width: 100%;
+  padding: 10px;
+  font-size: 18px;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.restart-btn:hover {
+  background-color: #444;
+}
+

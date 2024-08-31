@@ -1,0 +1,8 @@
+.accordion-content {
+    transition: height 0.5s ease-in-out;
+    overflow: hidden;
+  }
+  
+  .accordion-content.show {
+    height: auto;
+  }
