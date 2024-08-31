@@ -1,1 +1,1 @@
-we have run all folder seperatly usin npm start.
+we have run all folder seperatly using npm start.
